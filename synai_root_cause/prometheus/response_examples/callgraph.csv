@@ -1,0 +1,9 @@
+source,destination
+productpage-v1,details-v1
+reviews-v2,ratings-v1
+reviews-v3,ratings-v1
+reviews-v2,ratings-v2
+reviews-v3,ratings-v2
+productpage-v1,reviews-v1
+productpage-v1,reviews-v2
+productpage-v1,reviews-v3
